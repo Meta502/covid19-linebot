@@ -1,0 +1,6 @@
+{
+    "CHANNEL_ID": "ID HERE",
+    "CHANNEL_SECRET": "SECRET HERE",
+    "CHANNEL_ACCESS_TOKEN": "ACCESS_TOKEN_HERE",
+    "prefix": "c!"
+}
